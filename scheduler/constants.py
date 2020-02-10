@@ -1,0 +1,2 @@
+SINGLE_VALUE_KEY = 'key'
+DEBUG = False

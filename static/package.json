@@ -1,0 +1,35 @@
+{
+    "name": "simple-flask-react-template",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "webpack -p --progress --config webpack.config.js",
+        "dev-build": "webpack --progress -d --config webpack.config.js",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "watch": "webpack --progress -d --config webpack.config.js --watch"
+    },
+    "author": "jadiker",
+    "license": "None",
+    "homepage": "https://github.com/rbarbaresco/simple-flask-react-template#readme",
+    "devDependencies": {
+        "babel-core": "^6.26.3",
+        "babel-loader": "^7.1.5",
+        "babel-preset-env": "^1.7.0",
+        "babel-preset-react": "^6.24.1",
+        "bootstrap": "^4.2.1",
+        "css-loader": "^2.1.0",
+        "file-loader": "^3.0.1",
+        "jquery": "^3.3.1",
+        "popper.js": "^1.14.7",
+        "react": "^16.7.0",
+        "react-dom": "^16.7.0",
+        "webpack": "^3.12.0"
+    },
+    "babel": {
+        "presets": [
+            "env",
+            "react"
+        ]
+    }
+}
