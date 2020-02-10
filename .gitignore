@@ -1,9 +1,4 @@
 *.pyc
 __pycache__
 node_modules
-*log.txt
-*Log.txt
-Practical Theorem Prover Log.txt
 .DS_Store
-dist
-database_saves
