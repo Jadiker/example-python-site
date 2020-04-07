@@ -25,7 +25,8 @@
         "popper.js": "^1.14.7",
         "react": "^16.7.0",
         "react-dom": "^16.7.0",
-        "webpack": "^4.42.1"
+        "webpack": "^4.42.1",
+        "webpack-cli": "^3.3.11"
     },
     "babel": {
         "presets": [
