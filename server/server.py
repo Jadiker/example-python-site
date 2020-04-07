@@ -37,5 +37,4 @@ def schedule(data):
     return {SINGLE_VALUE_KEY: response}
 
 if __name__ == "__main__":
-    if DEBUG:
-        app.run(debug=False, port=5001)
+    app.run(debug=False, port=5001)
