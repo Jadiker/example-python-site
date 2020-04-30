@@ -20,7 +20,7 @@
         "bootstrap": "^4.2.1",
         "css-loader": "^2.1.0",
         "file-loader": "^3.0.1",
-        "jquery": "^3.3.1",
+        "jquery": "^3.5.0",
         "kind-of": ">=6.0.3",
         "popper.js": "^1.14.7",
         "react": "^16.7.0",
